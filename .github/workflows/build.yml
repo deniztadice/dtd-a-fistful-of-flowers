@@ -1,4 +1,4 @@
-name: DFT Build
+name: Adventure Build
 
 on:
   push:
