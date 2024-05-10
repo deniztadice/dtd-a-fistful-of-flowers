@@ -4,8 +4,8 @@
   "version": "1.0.0",
   "compatibility": {
     "minimum": "11",
-    "verified": "12",
-    "maximum": "12"
+    "verified": "11",
+    "maximum": "11"
   },
   "description": "&lt;p&gt;&lt;span style=&quot;font-family: Roboto&quot;&gt;Коли пихата аристократка вирішує, що ліщина стане гарною прикрасою для її вишуканого чаювання, вона навіть не здогадується, на яку біду вона наривається. Не кожна рослина в лісі хоче бути виставленою на показ, і деякі з них більш ніж добре озброєні, щоб боротися за тих, кого вирвали з їхніх домівок!&lt;/span&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;span style=&quot;font-family: Roboto&quot;&gt;У &lt;strong&gt;&quot;Жменьці квітів&quot;&lt;/strong&gt; ви візьмете на себе роль однієї з чотирьох унікальних лісових рослин, які отримали розум і власну волю. Коли нові паростки вихоплюють з лісу і забирають до цивілізації, саме ваша група розлючених квітів і войовничих рослин повинна все виправити!&lt;/span&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;span style=&quot;font-family: Roboto&quot;&gt;&lt;strong&gt;&quot;Жменька квітів&quot;&lt;/strong&gt; - це коротка пригода для персонажів 3-го рівня, яка виводить групу лісовиків з лісу в найнебезпечніше місце - на вишукане чаювання до аристократки. Крім того, чотири попередньо згенеровані персонажі дають змогу швидко зануритися у пригоди в цій захоплюючій пропозиції до Дня безкоштовних рольових ігор! Візьміть набір костей та друзів і зіграйте роль новітніх героїв лісу!&lt;/span&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;span style=&quot;font-family: Roboto&quot;&gt;&lt;strong&gt;Переклад:&lt;/strong&gt; &lt;a href=&quot;https://deniztadice.xyz/&quot;&gt;Deniz Köse&lt;/a&gt;, &lt;a href=&quot;https://www.deepl.com/&quot;&gt;Deepl&lt;/a&gt;, &lt;a href=&quot;https://translate.google.com/&quot;&gt;Google Translate&lt;/a&gt;, &lt;a href=&quot;https://chat.openai.com/&quot;&gt;ChatGPT&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;span style=&quot;font-family: Roboto&quot;&gt;&lt;strong&gt;Зображення: &lt;/strong&gt;&lt;a href=&quot;https://marketplace.roll20.net/browse/set/18523/fistful-of-flowers-art-pack&quot;&gt;Roll20&lt;/a&gt;, &lt;a href=&quot;https://www.reddit.com/user/MainFrame0/&quot;&gt;u/MainFrame0&lt;/a&gt;, &lt;a href=&quot;https://www.patreon.com/snowysmaps&quot;&gt;Snowy&#39;s Maps&lt;/a&gt;, &lt;a href=&quot;https://www.reddit.com/user/Eoldir/&quot;&gt;u/Eoldir&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;em&gt;&lt;strong&gt;Підтримати безкоштовні переклади пригод можна &lt;/strong&gt;&lt;/em&gt;&lt;a href=&quot;https://buymeacoffee.com/denizkose&quot;&gt;&lt;em&gt;&lt;strong&gt;тут&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;",
   "authors": [
@@ -19,7 +19,7 @@
     "styles/styles.css",
     "styles/welcome.css"
   ],
-  "url": "deniztadice.xyz",
+  "url": "https://github.com/deniztadice/dtd-a-fistful-of-flowers",
   "packs": [
     {
       "name": "zhmenka-kvitiv",
