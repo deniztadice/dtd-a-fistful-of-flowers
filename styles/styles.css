@@ -1,0 +1,22 @@
+::-webkit-scrollbar-thumb {
+    border-color: #0ab219;
+}
+::-webkit-scrollbar-thumb {
+    background: #00580b;
+}
+
+.sheet.journal-entry .pages-list .directory-item.active:first-of-type,
+.sheet.journal-entry .pages-list .directory-item.active + :not(.active),
+.sheet.journal-entry .pages-list .directory-item:not(.active) + .active,
+.sheet.journal-entry .pages-list .directory-item.active:last-of-type {
+    border-top: 1px solid #0ab219;
+}
+
+.sheet.journal-entry .journal-sidebar {
+    background: #08380854;
+}
+
+.sheet.journal-entry .pages-list .directory-item {
+    font-family: 'FixelText';
+    font-weight: 600;
+}
