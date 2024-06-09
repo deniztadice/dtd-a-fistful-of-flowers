@@ -1,8 +1,8 @@
 
-![](https://img.shields.io/endpoint?url=https%3A%2F%2Ffoundryshields.com%2Fversion%3Fstyle%3Dfor-the-badge%26url%3Dhttps%3A%2F%2Fraw.githubusercontent.com%2Fdeniztadice%2Fdtd-a-fistful-of-flowers%2Fmain%2Fmodule.json)
-![](https://img.shields.io/endpoint?url=https%3A%2F%2Ffoundryshields.com%2Fsystem%3FnameType%3Dfoundry%26style%3Dfor-the-badge%26url%3Dhttps%3A%2F%2Fimg.shields.io%2Fendpoint%3Furl%3Dhttps%253A%252F%252Ffoundryshields.com%252Fversion%253Fstyle%253Dfor-the-badge%2526url%253Dhttps%253A%252F%252Fraw.githubusercontent.com%252Fdeniztadice%252Fdtd-a-fistful-of-flowers%252Fmain%252Fmodule.json)
-![All Downloads](https://img.shields.io/github/downloads/deniztadice/dtd-a-fistful-of-flowers/module.zip?style=for-the-badge&label=ALL%20DOWNLOADS&color=blue)
-![Latest Version Downloads](https://img.shields.io/github/downloads/deniztadice/dtd-a-fistful-of-flowers/latest/module.zip?style=for-the-badge&label=LAST%20VERSION%20DOWNLOADS&color=orange
+![](https://img.shields.io/endpoint?url=https://foundryshields.com/version?style=for-the-badge%26url=https://raw.githubusercontent.com/deniztadice/dtd-a-fistful-of-flowers/main/module.json&label=ВЕРСІЯ%20FOUNDRY)
+![](https://img.shields.io/endpoint?url=https://foundryshields.com/system?nameType=full%26showVersion=1%26style=for-the-badge%26url=https:github.com/deniztadice/dtd-a-fistful-of-flowers/raw/main/module.json&label=СИСТЕМА)
+![All Downloads](https://img.shields.io/github/downloads/deniztadice/dtd-a-fistful-of-flowers/module.zip?style=for-the-badge&label=ВСЬОГО%20ЗАВАНТАЖЕНЬ&color=blue)
+![Latest Version Downloads](https://img.shields.io/github/downloads/deniztadice/dtd-a-fistful-of-flowers/latest/module.zip?style=for-the-badge&label=Завантаженнь%20останньої%20версії&color=orange
 )
 
 ---
