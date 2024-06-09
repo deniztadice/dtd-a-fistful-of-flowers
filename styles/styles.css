@@ -12,6 +12,15 @@
     border-top: 1px solid #0ab219;
 }
 
+.sheet.journal-entry .pages-list .directory-item.active:last-of-type {
+    border-bottom: 1px solid #0ab219;
+}
+
+.directory .directory-item.context,
+.directory .directory-item.active {
+  border-color: #0ab219;
+}
+
 .sheet.journal-entry .journal-sidebar {
     background: #08380854;
 }
