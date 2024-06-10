@@ -5,6 +5,5 @@
 )
 
 ---
-# README
 
-[Info](https://deniztadice.github.io/blog/adventures/pf2e/afof/)
+[CHANGELOG](./CHANGELOG.md) | [BLOG PAGE](https://deniztadice.github.io/blog/adventures/pf2e/afof/)
