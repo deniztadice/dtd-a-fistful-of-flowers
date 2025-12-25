@@ -66,8 +66,7 @@
       "type": "setup",
       "url": "./modules/dtd-a-fistful-of-flowers/images/cover.webp",
       "thumbnail": "./modules/dtd-a-fistful-of-flowers/images/cover.webp",
-      "loop": false,
-      "flags": {}
+      "loop": false
     },
     {
       "type": "launcher",
