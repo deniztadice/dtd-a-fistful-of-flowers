@@ -70,7 +70,7 @@
     },
     {
       "type": "launcher",
-      "url": "./modules/dtd-a-fistful-of-flowers/images/cover.webp"
+      "url": "./modules/dtd-a-fistful-of-flowers/images/launcher.webp"
     }
   ],
   "manifest": "https://github.com/deniztadice/dtd-a-fistful-of-flowers/releases/latest/download/module.json",
